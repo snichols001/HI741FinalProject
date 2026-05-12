@@ -18,8 +18,8 @@ Final Project for HI 741 (Essential Programming for Health Informatics) at the U
 **1. Clone the repository**
 
 ```bash
-git clone <repository-url>
-cd FinalProject
+git clone https://github.com/snichols001/HI741FinalProject.git
+cd HI741FinalProject
 ```
 
 **2. Install dependencies**
