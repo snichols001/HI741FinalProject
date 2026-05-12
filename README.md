@@ -122,6 +122,7 @@ FinalProject/
 ├── output/            Generated at runtime
 ├── data_generator.py  Generates synthetic sample data
 ├── requirements.txt   Python dependencies
+├── class_diagram.png  Class Diagram
 └── README.md
 ```
 
