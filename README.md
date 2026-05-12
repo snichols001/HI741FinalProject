@@ -29,10 +29,13 @@ Using pip:
 pip install -r requirements.txt
 ```
 
+
 Using conda:
 ```bash
-conda install matplotlib=3.10.6
+conda install matplotlib=3.7.4
 ```
+
+> **Note:** All other dependencies are included in the Python standard library (e.g., tkinter, csv, random, datetime, etc.).
 
 **3. Generate the sample dataset (first run only)**
 
