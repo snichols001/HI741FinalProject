@@ -4,6 +4,8 @@ A role-based desktop application for managing and analyzing clinical patient dat
 
 Final Project for HI 741 (Essential Programming for Health Informatics) at the University of Wisconsin–Milwaukee.
 
+**Repository:** [github.com/snichols001/HI741FinalProject](https://github.com/snichols001/HI741FinalProject)
+
 ---
 
 ## Install
